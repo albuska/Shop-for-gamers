@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://albuska.github.io/Goit-project1-team10",
+  "homepage": "https://albuska.github.io/Shop-for-gamers",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Goit-project1-team10/"
+    "build": "parcel build src/*.html --public-url /Shop-for-gamers/"
   },
   "repository": {
     "type": "git",
